@@ -88,6 +88,6 @@ Logistic Regression is used for binary classification problems. It estimates the
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/yashvardhan704/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
